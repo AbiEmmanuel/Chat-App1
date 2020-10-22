@@ -4,11 +4,11 @@ import Contact from './Contact';
 const Users = [
   {
     name: 'Robert Reyes',
-    avatar: 'https://randomuser.me/api/portraits/men/28.jpg',
+    avatar: 'https://randomuser.me/api/portraits/men/1.jpg',
     online: false
   },
   {
-    name: 'Nellie Caldwell',
+    name: 'Loletta Caldwell',
     avatar: 'https://randomuser.me/api/portraits/women/17.jpg',
     online: true
   },
@@ -23,8 +23,8 @@ const Users = [
     online: false
   },
   {
-    name: 'Juanita Phillips',
-    avatar: 'https://randomuser.me/api/portraits/women/55.jpg',
+    name: 'Miguel Robertson',
+    avatar: 'https://randomuser.me/api/portraits/men/53.jpg',
     online: true
   }
 ];
